@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es2018",
+    "module": "ESNext",
+    "sourceMap": false,
+    "lib": ["esnext", "DOM"],
+    "moduleResolution": "node",
+    "allowJs": false,
+    "strict": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "removeComments": false,
+    "preserveSymlinks": true,
+    "rootDir": ".",
+    "paths": {
+      "vitepress-plugin-setfrontmatter/*": ["./dist/*"]
+    }
+  }
+}
