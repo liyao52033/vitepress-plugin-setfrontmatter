@@ -1,14 +1,3 @@
----
-date: 2025-03-14 00:03:50
-title: README
-permalink: /pages/eb5aff
-author:
-  name: 华总
-  link: https://xiaoying.org.cn
-categories:
-  - 
----
-
 # vitepress-plugin-setfrontmatter
 
 这是一个适用于 `vitepress` 的 Vite 插件，`vitepress` 启动时，插件会给指定的 markdown 自动生成 `frontmatter`。
