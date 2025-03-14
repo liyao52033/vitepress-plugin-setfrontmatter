@@ -11,6 +11,14 @@
     "frontmatter"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/liyao52033/vitepress-plugin-setfrontmatter.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyao52033/vitepress-plugin-setfrontmatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liyao52033/vitepress-plugin-setfrontmatter/issues"
+  },
   "files": [
     "dist"
   ],
